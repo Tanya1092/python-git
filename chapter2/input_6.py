@@ -14,4 +14,9 @@ print( x + y )
 x = input("Enter the first number:")
 y = input("Enter the second number:")
 print( x + y )
-print(int(x)+int(y))
+print(int(x)+int(y))    
+
+
+x = float(input("Enter the first number:"))
+y = float(input("Enter the second number:"))
+print(x + y)
