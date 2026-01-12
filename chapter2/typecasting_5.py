@@ -15,6 +15,9 @@ a = "1"
 b = "3"
 print (int(a)+int(b))
 
+a = "6"
+b = "5"
+print (int(a)+int(b))
 
 # implicit typecasting 
 c = 1.9
