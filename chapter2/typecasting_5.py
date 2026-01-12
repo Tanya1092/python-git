@@ -21,3 +21,8 @@ c = 1.9
 d = 18
 print(c+d)
 print(type(c))
+
+e = 1.8
+f = 16
+print(e+f)
+print(type(e))
